@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/Maps/the-Pond.umap",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/Materials/M_Water.uasset",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/BlueprintClasses/BP_Fisher.uasset",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/BlueprintClasses/GM_Fishing.uasset",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/BlueprintClasses/BP_Bobber.uasset",
+				"C:/Users/Admin/Documents/GitHub/myProject/MyProject/Content/Materials/M_WaterDeep.uasset"
+			]
+		}
+	]
+}
